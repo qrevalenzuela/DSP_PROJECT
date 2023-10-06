@@ -1,4 +1,4 @@
 # DSP_PROJECT
-Group Members: Valenzuela, Robin
-Dimalibot, Harvey 
-Escobilla, Davonn
+ # Group Members: Valenzuela, Robin
+ # Dimalibot, Harvey 
+# Escobilla, Davonn
